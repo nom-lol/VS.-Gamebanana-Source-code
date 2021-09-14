@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CreditPeopleBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="theMen0000" x="0" y="0" width="773" height="338"/>
+	<SubTexture name="theMen0001" x="0" y="0" width="773" height="338"/>
+	<SubTexture name="theMen0002" x="0" y="338" width="773" height="338"/>
+	<SubTexture name="theMen0003" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0004" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0005" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0006" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0007" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0008" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0009" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0010" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0011" x="0" y="676" width="773" height="338"/>
+	<SubTexture name="theMen0012" x="0" y="676" width="773" height="338"/>
+</TextureAtlas>
